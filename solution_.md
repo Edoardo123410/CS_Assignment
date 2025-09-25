@@ -1,3 +1,4 @@
+Edoardo Giacomo Putignano
 Student ID = 16048229
 
 Paper titles:
@@ -7,6 +8,6 @@ Paper titles:
 3. _The neurocognitive effects of alcohol on adolescents and college students_ Zeigler, D.W., Wang, C.C., Yoast, R.A., Dickinson, B.D., McCaffree, M.A., Robinowitz, C.B., & Sterling, M.L. (2005). Preventive Medicine, 40(1), 23–32.
 
 ![Correlation between WO and Beer Consumption](correlation_WO_Beer.png)
-![WO and Beer Consumption over Time](WO_Beer_over_Time.png)
 
-The scatter plot and the time series show a strong positive correlation between the number of WO graduates and beer consumption in the Netherlands from 2006–2018. Both variables increase over time, and the linear fit indicates they move together. However, this apparent relationship may be spurious: it reflects coinciding upward trends rather than one causing the other.
+The scatter plot shows a strong positive correlation between the number of WO graduates and beer consumption in the Netherlands from 2006–2018. Both variables increase over time, and the linear fit indicates they move together. However, this apparent relationship may be spurious: it reflects coinciding upward trends rather than one causing the other.
+
